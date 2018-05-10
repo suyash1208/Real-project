@@ -1,2 +1,3 @@
 i am trying to learn git now
 try to learn how to create a repositort and edit it.
+learn how to create a new branch.
